@@ -1,0 +1,19 @@
+{
+  "name": "project1_js",
+  "version": "1.0.0",
+  "description": "Тестовый проект на reactjs\r Создано для изучения.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tofihub/project1_js.git"
+  },
+  "author": "mars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tofihub/project1_js/issues"
+  },
+  "homepage": "https://github.com/tofihub/project1_js#readme"
+}
